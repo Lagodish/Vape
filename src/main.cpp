@@ -5,6 +5,7 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #include "GyverButton.h"  
+
 GButton butt1(2); //Fire
 GButton butt2(3); //Plus
 GButton butt3(4); // Minus
